@@ -1,0 +1,10 @@
+com\example\consumer\UserApiConsumerApplication.class
+com\example\consumer\controller\Controller$1.class
+com\example\consumer\model\Address.class
+com\example\consumer\model\UserData.class
+com\example\consumer\config\AppConfig.class
+com\example\consumer\model\Response.class
+com\example\consumer\model\UserDetail.class
+com\example\consumer\model\Company.class
+com\example\consumer\model\Geo.class
+com\example\consumer\controller\Controller.class
